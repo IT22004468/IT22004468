@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bumal Sathsara</h1>
-<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
+<h3 align="center">I'm an IT undergraduate specializing in Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it22004468&label=Profile%20views&color=0e75b6&style=flat" alt="it22004468" /> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **C,C++,HTML,Javascript,php,JAVA**
 
