@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C,C++,HTML,Javascript,php,JAVA**
+- 💬 Ask me about **C,C++,HTML,Javascript,php,JAVA,MERN Stack**
 
 - 📫 How to reach me **bumalsathsara19@gmail.com**
 
